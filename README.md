@@ -1,24 +1,26 @@
-<h1>NIST Framework-Based Response to Ransomware Attack - Simulation</h1>
+<h1>NIST Based Incident Response to Ransomware Attack - Simulation</h1>
 
 <h2>Description</h2>
 
-I led a simulated ransomware incident response for a mid-sized financial institution. Using the NIST Cybersecurity Framework (CSF), I coordinated detection, containment, and recovery efforts while ensuring compliance with regulatory obligations (FFIEC, GLBA). The exercise demonstrated how structured response planning reduces operational disruption and strengthens resilience against ransomware threats.
+I led a simulated ransomware incident response for a mid-sized financial institution, applying the NIST Cybersecurity Framework (CSF) to coordinate detection, containment, and recovery. The exercise validated regulatory compliance with FFIEC and GLBA and demonstrated the value of structured response planning.
+
 
 <h2>Incident Overview</h2>
 
-- **Incident Type:** Ransomware attack simulation<br>
-- **Sector:** Financial services<br>
-- **Impact:** Client financial records inaccessible; ransom note detected; encrypted servers<br>
-- **Objective:** Apply NIST CSF functions to manage response, minimize business disruption, and ensure compliance
+- Incident Type: Ransomware simulation targeting client financial records
 
-<h2>Outcome & Value </h2>
+- Objective: Apply NIST CSF functions to manage response, minimize business disruption, and ensure compliance
 
-- Incident contained within 36 hours.<br>
-- No ransom paid; systems restored from clean backups.<br>
-- Customer disruption minimized.<br>
-- Increased organizational confidence through structured, compliant response aligned with NIST CSF.
+- Sector: Financial services
+
+- Impact: Encrypted servers, ransom note detected, temporary loss of record access
+
+- Response: Containment and recovery were completed within 36 hours using clean backups; no ransom was paid
 
 
+<h2>Outcome </h2>
+
+The simulation minimized business disruption, restored operations rapidly, and strengthened organizational resilience while boosting confidence in regulatory-aligned incident response practices.
 
 <!--
  ```diff
