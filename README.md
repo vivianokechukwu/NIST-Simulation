@@ -20,7 +20,7 @@ I led a simulated ransomware incident response for a mid-sized financial institu
 
 <h2>Outcome </h2>
 
-The simulation minimized business disruption, restored operations rapidly, and strengthened organizational resilience while boosting confidence in regulatory-aligned incident response practices.
+The simulation minimized business disruption, restored operations rapidly, and strengthened organizational resilience while boosting confidence in regulatory aligned incident response practices.
 
 <!--
  ```diff
